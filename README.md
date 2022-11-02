@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Blu3Str0k3r
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @FL0D3V
+- 👀 I’m interested in C#.
+- 🌱 I’m currently learning to develop microservices.
 
 <!---
-Blu3Str0k3r/Blu3Str0k3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FL0D3V/FL0D3V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
